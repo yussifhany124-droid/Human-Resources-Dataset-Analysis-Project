@@ -1,0 +1,45 @@
+{
+  "source_folder": "D:\\DEPI\\final_project\\Datasets\\Data_Set_HR",
+  "files": {
+    "EducationLevel.csv": {
+      "input_rows": 5,
+      "rows_after_exact_deduplication": 5,
+      "exact_duplicate_rows_removed": 0,
+      "blank_cells_after_trimming": 0
+    },
+    "Employee.csv": {
+      "input_rows": 1470,
+      "rows_after_exact_deduplication": 1470,
+      "exact_duplicate_rows_removed": 0,
+      "blank_cells_after_trimming": 0
+    },
+    "PerformanceRating.csv": {
+      "input_rows": 6709,
+      "rows_after_exact_deduplication": 6709,
+      "exact_duplicate_rows_removed": 0,
+      "blank_cells_after_trimming": 0
+    },
+    "RatingLevel.csv": {
+      "input_rows": 5,
+      "rows_after_exact_deduplication": 5,
+      "exact_duplicate_rows_removed": 0,
+      "blank_cells_after_trimming": 0
+    },
+    "SatisfiedLevel.csv": {
+      "input_rows": 5,
+      "rows_after_exact_deduplication": 5,
+      "exact_duplicate_rows_removed": 0,
+      "blank_cells_after_trimming": 0
+    }
+  },
+  "checks": {
+    "employee_ids_are_unique": true,
+    "duplicate_employee_ids": [],
+    "reviews_before_hire_date_quarantined": 1141,
+    "invalid_or_blank_review_dates_quarantined": 0,
+    "performance_rows_with_unknown_employee_id": 0,
+    "employees_without_valid_reviews": 253,
+    "clean_performance_rows_written": 5568,
+    "date_format_in_outputs": "YYYY-MM-DD"
+  }
+}
