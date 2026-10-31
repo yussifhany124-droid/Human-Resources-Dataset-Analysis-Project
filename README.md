@@ -14,6 +14,29 @@ Fatimah Ehab Farouk
 
 ## Tools
 Power BI
+Excel
+Tableau
+Python
+SQL
+
+## Team Responsibilities
+
+1. **Youssef Hani Rabee Ali**
+   - Power BI Dashboard Development
+   - Python (Data Cleaning)
+   - Data Modeling
+
+2. **Sara Youssef Mohamed Mansour**
+   - Excel Data Analysis
+
+3. **Loai Hamada Sayed Abdul Haq**
+   - Tableau Dashboard Development
+
+4. **Mahmoud Adly Sedeek**
+   - SQL Queries and Database Analysis
 
 ## Google Drive link
 https://drive.google.com/drive/folders/1mPBKtP28nHbmc4VCUxl6vpNyuJRuWP8P?usp=drive_link
+
+## OneDrive Link
+https://1drv.ms/f/c/cf02f60d177d05ad/IgDP9CR1lnXUSpPEiNZrYxm6AZ8zeO5c-61uMMcIpXN-o-I?e=Lx9ndD
