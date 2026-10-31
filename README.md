@@ -12,12 +12,13 @@ An end-to-end HR analytics project using Power BI. It covers data cleaning and p
 ## Instructor
 Fatimah Ehab Farouk
 
-## Tools
-Power BI
-Excel
-Tableau
-Python
-SQL
+## Tools & Technologies
+
+- Microsoft Excel
+- SQL
+- Python
+- Power BI
+- Tableau
 
 ## Team Responsibilities
 
