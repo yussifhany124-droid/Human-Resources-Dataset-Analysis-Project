@@ -5,9 +5,8 @@ An end-to-end HR analytics project using Power BI. It covers data cleaning and p
 ## Team Members
 1. Youssef Hani Rabea Ali
 2. Mahmoud Adly Sediek
-3. Mohamed Ahmed Ahmed Sayed
-4. Loai Hamada Sayed Abdul Haq
-5. Sara Youssef Mohamed Mansor
+3. Loai Hamada Sayed Abdul Haq
+4. Sara Youssef Mohamed Mansor
 
 ## Instructor
 Fatimah Ehab Farouk
